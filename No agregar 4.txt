@@ -1,0 +1,1 @@
+Texto para diferenciar una versión del punto de guardado.
